@@ -1,0 +1,6 @@
+import hoge
+
+int func(){
+
+}
+
